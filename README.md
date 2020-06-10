@@ -12,4 +12,6 @@ Google | [Google](https://www.google.com/).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-@octocat :+2:This PR looks great - it's ready to merge! :shipit:
+@octocat :+2: This PR looks great - it's ready to merge! :shipit:
+
+
