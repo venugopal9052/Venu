@@ -7,7 +7,7 @@ Content in the first column | Content in the second column
 
 #1 venu@dxc.com please look into it
 
-Google | https://www.google.com/
+Google | [Google](https://www.google.com/).
 -------------- | --------------
 
 This site was built using [GitHub Pages](https://pages.github.com/).
